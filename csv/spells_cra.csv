@@ -1,0 +1,16 @@
+id_feitico;nome_feitico;dano_lvl1;dano_lvl200;coeficiente;custoPA;custoPM;custoPW
+4769;flecha_ardente;2;50;0.24;2;0;0
+4822;flecha_voraz;4;100;0.48;4;1;0
+4821;flecha_cegante;3;63;0.3;3;0;0
+4820;flecha_de_imolacao;4;96;0.46;4;0;0
+4819;flecha_explosiva;6;126;0.6;5;0;1
+4818;flecha_crivante;3;69;0.33;3;0;0
+4817;chuva_de_flechas;4;100;0.48;4;0;0
+4816;flecha_fustigante;3;63;0.3;3;0;0
+4815;flecha_perfurante;4;84;0.4;5;0;0
+4814;flecha_destrutiva;6;150;0.72;6;0;1
+4810;flecha_de_recuo;4;116;0.56;4;0;0
+4813;flecha_guiada;2;48;0.23;2;0;0
+4811;flecha_inconveniente;3;75;0.36;3;0;0
+4809;flecha_tempestuosa;3;57;0.27;3;0;0
+4812;flecha_envenenada;5;125;0.6;5;0;1
